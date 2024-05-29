@@ -6,7 +6,7 @@ Technologies:
   
 
 #### Screenshots
-<p><img align="center" src="BMI-Calculator_SS"/></p>
+<p><img align="center" src="BMI-Calculator_SS.png"/></p>
 
 
 
